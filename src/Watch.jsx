@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./watch.css"
 
-function  Practice(){
+function  Watch(){
     
     const [isRunning,setIsRunning] = useState(false);
     const [elapsedTime,setElapsedTime] = useState(0);
@@ -68,5 +68,5 @@ function  Practice(){
     )
 }
 
-export default Practice;
+export default Watch;
 
