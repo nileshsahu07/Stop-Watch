@@ -4,7 +4,7 @@ import Watch from "./Watch"
 function App() {
   return (
     <>
-      <Watch/>
+      <Watch />
     </>
   );
 }
